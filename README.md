@@ -1,16 +1,33 @@
-### Hi there 👋
+Olá! Me chamo Leonildo Camilo 
 
-<!--
-**flexyus1/flexyus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou em busca do meu primeiro emprego na área de programação
+- 🌱 Estudando desenvolvimento web Full Stack
+- ✉️ E-mail para contato: leonildo_camilo@hotmail.com
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Status
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flexyus1&layout=compact)
+
+<hr/>
+
+# Linguagens
+
+<div>
+<img width = "48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width = "48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width = "48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img width = "48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img width = "48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width = "48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
+
+<hr/>
+
+# Contato
+
+<div> 
+  <a href="https://www.linkedin.com/in/leonildo-camilo-78267b226/" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
+  <a href="https://www.instagram.com/leozinho_jjr/" target="_blank"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white target="_blank"></a>
+</div>

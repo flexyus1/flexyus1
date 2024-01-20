@@ -36,7 +36,7 @@ Olá! Me chamo Leonildo Camilo
 <div>
 
 <img width = "48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img width = "48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
 
 
 

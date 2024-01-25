@@ -1,7 +1,7 @@
 Olá! Me chamo Leonildo Camilo 
 
 - 🔭 Estou em busca do meu primeiro emprego na área de programação
-- 🌱 Estudando desenvolvimento web Full Stack
+- 🌱 Desenvolvedor Full Stack Jr
 - ✉️ E-mail para contato: leonildo_camilo@hotmail.com
 
 <hr/>

@@ -37,6 +37,8 @@ Olá! Me chamo Leonildo Camilo
 
 
 <img width = "49" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+<img width = "49" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+          
           
 
 
